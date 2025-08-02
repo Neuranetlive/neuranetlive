@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "neuranetlive",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "74e7c43d-86cd-4ca9-af84-2091f770cb7e",
+      "database_name": "neuranetlive-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
